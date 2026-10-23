@@ -1,4 +1,4 @@
-# PHP2Shell (CVE-2026-109618/109619) — validated exploit portfolio
+# PHP2Shell (CVE-2026-109618/109619) - validated exploit portfolio
 
 Authorized local lab research only. Private reference.
 
@@ -26,7 +26,7 @@ build (apache2 2.4.69-1~deb13u1). Same version tag, different binary.
       --proof-file out/p1 --offsets-file trixie-offsets.env
 
 ## Files
-- 52704.py — EDB-ID 52704 exploit (credit: 9bie / OffSec)
-- trixie-offsets.env — correct offsets for current trixie-based tag
-- ANALYTICS.md — full lab report: chain table, traffic signatures, detection rules, reliability matrix
-- php2shell-final.pcap.gz — labeled capture of a SUCCESSFUL chain (Suricata SID 2026100 tuning reference)
+- 52704.py - EDB-ID 52704 exploit (credit: 9bie / OffSec)
+- trixie-offsets.env - correct offsets for current trixie-based tag
+- ANALYTICS.md - full lab report: chain table, traffic signatures, detection rules, reliability matrix
+- php2shell-final.pcap.gz - labeled capture of a SUCCESSFUL chain (Suricata SID 2026100 tuning reference)
